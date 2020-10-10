@@ -1,4 +1,4 @@
-module github.com/TicketsBot/worker
+module github.com/timnboys/worker
 
 go 1.14
 
