@@ -3,10 +3,10 @@ module github.com/timnboys/worker
 go 1.14
 
 require (
-	github.com/TicketsBot/archiverclient v0.0.0-20200703191016-b27de6fd6919
-	github.com/TicketsBot/common v0.0.0-20200925115036-a1bbe85f45bb
-	github.com/TicketsBot/database v0.0.0-20200921193549-97eada07c065
-	github.com/TicketsBot/logarchiver v0.0.0-20200425163447-199b93429026 // indirect
+	github.com/timnboys/archiverclient latest
+	github.com/timnboys/common latest
+	github.com/timnboys/database latest
+	github.com/timnboys/logarchiver latest // indirect
 	github.com/elliotchance/orderedmap v1.2.1
 	github.com/go-redis/redis v6.15.8+incompatible
 	github.com/gofrs/uuid v3.3.0+incompatible
